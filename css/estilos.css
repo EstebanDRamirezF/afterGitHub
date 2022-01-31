@@ -51,6 +51,10 @@ header nav ul{
 
 }
 
+nav ul li:hover{
+    background: black;
+}
+
 header nav ul a{
     color: black;
     padding: .75em 2em;
